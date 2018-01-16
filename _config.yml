@@ -33,6 +33,7 @@ comments :
 
 # Internal nav
 nav:
+  - HOME: "https://aura31.github.io/"
   - GALLERY: "https://aura31.github.io/gallery/"  
   - JOURNAL: "https://aura31.github.io/journal/"
   - ABOUT: "https://aura31.github.io/about/"
